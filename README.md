@@ -26,8 +26,8 @@ A simple speech-to-text system that transcribes audio files using pre-trained mo
 
 1. Clone this repository:
 ```
-git clone 
-cd speech-recognition-system
+git clone https://github.com/Ver-er/Speech-Recognition-System.git
+cd Speech-Recognition-System
 ```
 
 2. Install required dependencies:
