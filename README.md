@@ -1,18 +1,5 @@
 # Speech Recognition System
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: PALADUGU VISHNU VARDHAN
-
-*INTERN ID*: CODF32
-
-*DOMAIN*: ARTIFICIAL INTELLIGENCE 
-
-*DURATION*: 4 WEEEKS
-
-*MENTOR*: NEELA SANTOSH KUMAR
-
----
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen)
